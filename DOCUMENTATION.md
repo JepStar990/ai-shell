@@ -145,6 +145,4 @@ MIT License - Free for personal & commercial use.
 This tool helps **automate terminal commands** using AI, with **Gemini as the default free option** and DeepSeek as a fallback. Simply:  
 1. **Install** (`pip install -r requirements.txt`)  
 2. **Configure** (add API keys in `.env`)  
-3. **Run** (`python main.py ask "your prompt"`)  
-
-Let me know if you need any modifications! 🚀
+3. **Run** (`python main.py ask "your prompt"`)
